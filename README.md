@@ -1,5 +1,6 @@
 # devto-mongodb-hackathon-app
 Frontend application for my DevTo MongoDB hackathon project.
+https://dev.to/timotej_avsec/video-content-search-using-mongodb-atlas-search-and-google-machine-learning-1f32
 
 ## Build Setup
 
